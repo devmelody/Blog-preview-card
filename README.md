@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-T45Vf7_hU7](https://https://www.frontendmentor.io/solutions/blog-preview-card-T45Vf7_hU7.com)
+- Live Site URL: [https://devmelody.github.io/blog-preview-card/](https://https://devmelody.github.io/blog-preview-card/com)
 
 ## My process
 
